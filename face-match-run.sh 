@@ -1,0 +1,5 @@
+python3 createdb.py
+python3 createtable.py
+python3 facedata.py
+python3 facetrain.py
+python3 facerecognisation.py
